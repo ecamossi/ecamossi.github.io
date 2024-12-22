@@ -7,7 +7,7 @@ I'm interested in semantic modelling of information, geospatial data management 
 [Google Scholar][gs]
 [ORCID][orcid]
 
-[pub]: ./publication.md
+[pub]: ./ElenaCamossi-Publications.html
 [dblp]: https://dblp.org/pid/50/3965.html
 [gs]: https://scholar.google.com/citations?user=6zQ5x
 [orcid]: https://orcid.org/0000-0001-9181-0962

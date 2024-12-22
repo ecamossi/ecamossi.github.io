@@ -1,8 +1,9 @@
-Maritime Linked Data
+## Maritime Linked Data
 E. Camossi,  An Ontology for Maritime Situational Awareness Heterogeneous Sensor Network 19th International Semantic Web Conference (ISWC 2020), Demos and Industry Tracks: From Novel Ideas to Industrial Practice, Globally online, November 1-6, 2020, 378-380
 E. Camossi and F. de Rosa: Semantic-driven modelling of context and entity profile for maritime situational awareness WOMoCoE: 5th International Workshop on Ontology Modularity, Contextuality, and Evolution, The Joint Ontology Workshops @ Bolzano Summer of Knowledge (BOSK 2020), Virtual & Bozen-Bolzano, Italy, August 31st to October 7th, 2020.
 E. Camossi, A-L Jousselme: Information and Source Quality Ontology in Support to Maritime Situational Awareness. In Proceedings of 21st International Conference on Information Fusion, FUSION 2018, Cambridge, UK, July 10-13, 2018. IEEE 2018.
-Maritime Big Data 
+
+## Maritime Big Data 
 L. Etienne, C. Ray, C. Iphar, E. Camossi: Maritime Data Processing in Relational Databases. Chapter in Introduction to Maritime Informatics, Springer-Verlag (to appear in 2020)
 Ray C., Jousselme AL., Iphar C., Zocholl M., Camossi E., Dréo R. (2020) Mobility Data: A Perspective from the Maritime Domain. In: Vouros G. et al. (eds) Big Data Analytics for Time-Critical Mobility Forecasting. Springer, Cham. https://doi.org/10.1007/978-3-030-45164-6_1
 C. Ray, R. Dréo, E. Camossi, A-L. Jousselme, C. Iphar Heterogeneous Integrated Dataset for Maritime Intelligence, Surveillance, and Reconnaissance Elsevier Data in Brief, 2019, p. 104-141. https://doi.org/10.1016/j.dib.2019.104141
@@ -50,7 +51,8 @@ E. Camossi, M. Bertolotto, E. Bertino, G. Guerrini: A Multigranular Spatiotempor
 E. Camossi, M. Bertolotto, E. Bertino, G. Guerrini: State of the Art on Spatial Granularity Definition Process. In Proc. of ISPRS Workshop on Spatial, Temporal and Multi-Dimensional Data Modelling and Analysis, Québec City, Québec, Canada, 2-3 October, ISPRC 2003
 E. Camossi, M. Bertolotto, E. Bertino, G. Guerrini: Issues on Modelling Spatial Granularity, Pre-COSIT workshop on Fundamental Issues in Spatial and Geographical Ontologies, Kartause Ittingen, Switzerland, 23 September, 2003
 E. Camossi, E. Bertino, G. Guerrini, M. Mesiti: Evolution Specification of Multigranular Temporal Objects. In Proc. of 9th International Workshop on Temporal Representation and Reasoning (TIME-02), Manchester, UK, 7-9 July, 2002,  p. 78-85. IEEE Computer Society, 2002
-Knowledge Management and CAD
+
+## Knowledge Management and CAD
 C.E. Catalano, E. Camossi, R. Ferrandes, V. Cheutet, N. Sevilmis: A Product Design Ontology for Enhancing Shape Processing in Design Workﬂows, Journal of Intelligent Manufacturing, Springer Netherlands, 2009. Special Issue on Knowledge Discovery and Management in Engineering Design and Manufacturing; Guest Editors: Ying Liu and Jenny Harding". Volume 20, Issue 5, p. 553-567.
 E. Camossi, F. Giannini, M. Monti, P.A. Bragatto, P. Pittiglio, S. Ansaldi: Ontology Driven Certication of Pressure Equipments, Process Safety Progress, John Wiley & Sons, Inc., Volume 27, Issue 4, 2008. p. 313-322.
 E. Camossi, F. Giannini, M. Monti: Deriving Functionality from 3D Shapes: Ontology Driven Annotation and Retrieval.  Computer Aided Design & Applications, Vol. 4, Issue 6, p. 773-782, 2007. CAD Solutions, LLC. In Proceedings of 2007 the International CAD Conference and Exhibition 2007 (CAD 07), Honolulu, Hawaii, 25-29, June 2007.

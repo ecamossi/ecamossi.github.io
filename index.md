@@ -11,8 +11,10 @@ I have been awarded a PhD (March 2005) and a MSc (February 2001) in Computer Sci
 [DBLP][dblp]
 [Google Scholar][gs]
 [ORCID][orcid]
+[Semantic Scholar][sem]
 
 [pub]: https://sites.google.com/site/elenacamossi/publications
 [dblp]: https://dblp.org/pid/50/3965.html
 [gs]: https://scholar.google.com/citations?user=6zQ5x
 [orcid]: https://orcid.org/0000-0001-9181-0962
+[sem]: https://www.semanticscholar.org/author/E.-Camossi/2914902

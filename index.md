@@ -1,9 +1,10 @@
-I am a Computer Scientist with expertise in semantic modelling of information, geospa- tial data management and interoperability, knowledge discovery from spatio-temporal data, spatio-temporal databases and geographical and spatial information systems.
-I am scientific assistant at the Science and Technology Organisation - Centre for Maritime Research and Experimentation (CMRE), in La Spezia, Italy, since 2014. 
+I am Research data management specialist with 24 years of experience across NATO, the European Commission, and leading international universities and research centres, with a research background in knowledge engineering, spatio-temporal databases, and maritime intelligence.
 
-Before joining CMRE, I have been solution architect for interoperable geographic data infrastructures (September 2013 - June 2014) and post-doctoral researcher on spatio-temporal knowledge discovery (April 2010 - March 2013) at the European Commission Joint Research Centre in Ispra, Italy;  post-doctoral researcher on multi-granular spatio-temporal data modelling at University College Dublin, in Ireland (October 2007- October 2009); post-doctoral researcher on semantic information extraction and modelling at the Italian Research Council (CNR) in Genova, Italy ( March 2005 - July 2007); research assistant on spatio-temporal data modelling at the NATO Undersea Research Centre in La Spezia, Italy (July - October 2007).
+Since 2014, I am conducting research and data management activities at the NATO Science & Technology Organization Centre for Maritime Research and Experimentation (STO- CMRE), where current work focuses on cloud-native and in-premises representations of geospatial tensor data for climate change analysis and underwater acoustics, alongside contributions to the institutional Programme of Work.
 
-I have been awarded a PhD (March 2005) and a MSc (February 2001) in Computer Science, from the University of Milan, in Italy. During my PhD, I studied the modelling of spatio-temporal multi-granularity information. 
+Prior experience includes the development of interoperable geographic data infrastruc- tures at the European Commission Joint Research Centre - JRC (2013–2014); spatio- temporal knowledge discovery and semantic anomaly detection applied to maritime security (JRC, 2010–2013); multi-granular object-oriented spatio-temporal modelling (University College Dublin, 2007–2009); and semantics for three-dimensional product design models, and information discovery (Italian Research Council, 2005–2007).
+
+I have been awarded a PhD (March 2005) and a MSc (February 2001) in Computer Science, from the University of Milan, in Italy. During my PhD, I studied the modelling of spatio-temporal multi-granularity information.
 
 # Publications
 
